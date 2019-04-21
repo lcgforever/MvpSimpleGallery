@@ -1,3 +1,9 @@
 <resources>
+
     <string name="app_name">MvpSimpleGallery</string>
+
+    <string name="load_photos_error_snack_message">Error loading photos: $s</string>
+    <string name="load_photos_error_text">An error occurred when fetching photos. Please pull to refresh!</string>
+    <string name="transition_name">layout_transition</string>
+
 </resources>
